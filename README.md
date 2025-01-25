@@ -66,23 +66,5 @@ Apache 2.0 - See [LICENSE](LICENSE)
 
 ---
 
-📧 Contact: [Your Email]  
-🔗 Live Demo: [Your Demo URL]  
+📧 Contact: ghanamaahmed@gmail.com
 🐛 Report Issues: [GitHub Issues](https://github.com/ghanamaahmed/gemini-cv-creator-nextjs/issues)
-```
-
-Key features:
-- Minimal environment setup instructions
-- Direct clone-and-run experience
-- Essential commands in code blocks
-- Security through gitignore
-- Troubleshooting in code format
-- Badges for quick reference
-
-To use:
-1. Copy this code into README.md
-2. Replace [Your Email] and [Your Demo URL]
-3. Add screenshots later using:
-```markdown
-![Interface Preview](./screenshots/main.png)
-```
